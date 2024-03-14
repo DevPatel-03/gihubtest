@@ -1,4 +1,4 @@
-const age = 22;
+const age = 20;
 
 const myname1 = "dev patel"
 
